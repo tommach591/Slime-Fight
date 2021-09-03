@@ -7,4 +7,4 @@ Artist: Ivy Yang
 
 Game: https://narwaltz.itch.io/jolly-hunt 
 
-Password: shiro
+Password: jolly
